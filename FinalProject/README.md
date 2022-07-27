@@ -6,7 +6,7 @@ Application under test:
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/Ormus68/ManualTestingPortofolio/blob/main/FinalProject/README.md#1-testing-section) and [SQL section](https://github.com/Ormus68/ManualTestingPortofolio/blob/main/FinalProject/README.md#2-sql-section).** and [API section](https://github.com/Ormus68/ManualTestingPortofolio/edit/main/FinalProject/README.md#3-api-section)
+**The final project will be split into 2 sections: [Testing section](https://github.com/Ormus68/ManualTestingPortofolio/blob/main/FinalProject/README.md#1-testing-section) and [SQL section](https://github.com/Ormus68/ManualTestingPortofolio/blob/main/FinalProject/README.md#2-sql-section) and [API section](https://github.com/Ormus68/ManualTestingPortofolio/edit/main/FinalProject/README.md#3-api-section).**
 
 Tools used:
 
